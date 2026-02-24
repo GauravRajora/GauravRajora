@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-- 💻 5+ Years of Experience in Full Stack Development  
+- 💻 6+ Years of Experience in Full Stack Development  
 - 🚀 Building Scalable Web Applications & SaaS Platforms  
 - 🔐 Strong focus on Security, Performance & Clean Architecture  
 - ☁ Experience deploying applications on AWS  
